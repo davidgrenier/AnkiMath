@@ -1,0 +1,5 @@
+backups
+*.media/
+*.log
+*.anki2*
+*.txt
