@@ -2,5 +2,4 @@ backups
 collection.media/*
 !collection.media/paste*.*
 *.log
-*.anki2*
 *.txt
