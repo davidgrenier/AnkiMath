@@ -1,6 +1,6 @@
 # Anki Math Cards
-How to Solve it, Latex, R, Discrete Math, Calculus, Stats, Linear Algebra
+How to Solve it, Latex, R, Discrete Math, Calculus, Stats, Linear Algebra, Analysis, Probabilities, Stochastic Processes, History of Mathematics and even Positive Psychology.
 
-Unfortunately, maybe, for you... mix of french and english.
+Most of the cards are in french.
 
-Many cards will also require an working installation of LaTeX.
+Some of the cards will also require an working installation of LaTeX.
