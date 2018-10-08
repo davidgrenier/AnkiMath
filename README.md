@@ -1,5 +1,23 @@
 # Anki Math Cards
-How to Solve it, Latex, R, Discrete Math, Calculus, Stats, Linear Algebra, Analysis, Probabilities, Stochastic Processes, History of Mathematics and even Positive Psychology.
+
+- How to Solve it
+- Latex
+- R
+- Mathematics
+    * Discrete Math
+    * Calculus
+    * Stats
+    * Linear Algebra
+    * First Order Logic
+    * Analysis
+    * Analysis 2
+    * Probabilities
+    * Stochastic Processes
+    * History of Mathematics
+    * Numerical Analysis
+    * Differential Geometry
+    * Abstract Algebra
+- Positive Psychology.
 
 Most of the cards are in french.
 
