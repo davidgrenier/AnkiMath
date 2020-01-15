@@ -18,14 +18,15 @@
     * Numerical Analysis
     * Differential Geometry
     * Abstract Algebra
-    * Sampling (in progress)
-    * Logic (in progress)
     * Graph Theory
     * Mathematical Statistics
-    * ANOVA (in progress)
+    * ANOVA
     * Linear Regression
     * Scientific C
-    * Number Theory (in progress)
+    * Number Theory
+    * Galois (in progress)
+    * Topology (in progress)
+    * Differential Equations (in progress)
 
 Most of the cards are in french.
 
