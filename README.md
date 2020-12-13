@@ -24,9 +24,11 @@
     * Linear Regression
     * Scientific C
     * Number Theory
-    * Galois (in progress)
-    * Topology (in progress)
-    * Differential Equations (in progress)
+    * Galois
+    * Topology
+    * Differential Equations
+    * Applied Analysis
+    * Programming Language Concepts
 
 Most of the cards are in french.
 
