@@ -10,8 +10,10 @@
     * Statistics
     * Linear Algebra
     * First Order Logic
-    * Analysis 1,2
+    * Analysis 1,2,3
+    * Complex Analysis
     * Algebra 1,2
+    * Category Theory (English)
     * Probabilities
     * Stochastic Processes
     * History of Mathematics
