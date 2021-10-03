@@ -4,6 +4,11 @@
 - R
 - How to Solve it
 - Positive Psychology.
+- Computer Science
+    * Algorithmics
+    * Data Structures
+    * Operational Research
+    * Linear Programming
 - Mathematics
     * Discrete Math
     * Calculus 1,2
