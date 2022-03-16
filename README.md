@@ -8,10 +8,11 @@ Most of the cards are in french.
 - Positive Psychology.
 - Computer Science
     * Programming Language Concepts
-    * Algorithmics (ongoing)
-    * Data Structures (ongoing)
-    * Operational Research Models (ongoing)
-    * Linear Programming (ongoing)
+    * Algorithmics
+    * Data Structures
+    * Operational Research Models
+    * Linear Programming
+    * Mathematical Programming (ongoing)
 - Mathematics
     * Discrete Math
     * Calculus 1,2
